@@ -1,3 +1,10 @@
+/*
+Questo programma ti consente di generare password casuali utilizzando lafunzione "rand()".
+Ho creato un solo array contenente tutti i caratteri e poi ho sfruttato la capacità di agire sui
+"limiti" all'interno i quali la funzione "rand()" può agire per dirgli, in questo caso, di andare a generare numeri casuali 
+tra "52 + 10" (rand()% 52 + 10) per prendere solo le lettere, saltando i primi 10 caratteri che sono numeri.
+*/
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
