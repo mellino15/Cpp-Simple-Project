@@ -1,3 +1,8 @@
+/*
+Questo programma è molto semplice! Sfrutta la funzione "rand()" per generare un numero da 1  a 3 che poi, tramite le strutture "if, else" che stanno alla base di C++, verrà trasformato
+in sasso, carta o forbice, aseconda del numero generato. Tu  non dovrai fare altro che avviare il programma, scrivere il segno che hai scelto e sperare di aver vinto!
+*/
+
 #include <iostream>
 #include <string>
 #include <cstdlib>
