@@ -1,3 +1,10 @@
+/*
+Questo programma, il cui nome è "Parangelia", svolge il semplice ma barboso compito di riordinare le tue directory. Come funziona?
+In poche parole quando viene avviato lui crea subito 5 cartelle (solo se non esistono già): "video", "immagini, "documenti", "musica"e "altro"  e smista
+tutti i file all'interno della directory corrente dentro le 5 cartelle da lui create per estensione. Per esempio, se siamo nella cartella Download e abbimo appena scaricato
+un file .mp4 e avviamo il programma "Parangelia", esso creerà le 5  cartelle (solo se non esistono già) e sposterà il file .mp4 nella cartella "video".
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
