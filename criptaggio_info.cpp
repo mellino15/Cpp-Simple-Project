@@ -1,9 +1,16 @@
+/*
+Con questo programma hai la possibilità di criptare e decriptare frasi intere secondo un tuo alfabeto personale
+espresso nelle mappe (map). Sono state create 2 mappe: la prima contenente la conversione dal nostro alfabeto al mio, la 
+seconda contenente la conversione dal mio a quello standard. Questo per semplificare al massimo l'utilizzo delle mappe e la
+comprensione del codice in se.
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
 #include <map>
 #include <limits>
-#include <fstream>
+//#include <fstream>
 
 using namespace std;
 
