@@ -1,5 +1,5 @@
 # Cpp-Simple-Project
-<p style="color: rgb(173, 255, 47);">
+<p style="font-size: 100px;">
 Una raccolta di alcuni dei miei progetti fatti in C++ che ha lo scopo di avvicinare la gente a questo linguaggio.
 Tutti i progetti all'interno di questa repository non sono sotto licenza e, perciò, sono di dominio pubblico. 
 Fateci quello che volete! 
