@@ -15,5 +15,5 @@ Ho sviluppato alcuni giochi semplici che puoi provare se ti va (anche loro di do
 
 <p align="center">
   <a href="https://acumengrid.netlify.app/"><img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/cf3d7a9c-9901-4248-a761-62bcfde2786a" /></a>
-  Clicca sull'immagine per giocare!
 </p>
+<p align="center">Clicca sull'immagine per giocare!</p>
