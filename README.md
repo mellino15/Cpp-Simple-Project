@@ -5,5 +5,6 @@ Fateci quello che volete!
 Trasformateli in ciò che più desiderate utilizzando la base del mio progetto oppure studiateli per capire come funziona C++.
 <h1>Prova i miei giochi fatti in C++!</h1>
 <div style="display: flex;">
-  <a href="https://acumengrid.netlify.app/" style="align-self: right;"><img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/b6eb8254-53e0-41ca-b63d-5d09e4c815e2" /></a>
+  <a href="https://acumengrid.netlify.app/"><img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/b6eb8254-53e0-41ca-b63d-5d09e4c815e2" /></a>
+  <h1><-- Clicca sull'immagine</h1>
 </div>
