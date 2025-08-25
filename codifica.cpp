@@ -1,3 +1,11 @@
+/*
+Con questo programma hai la possibilità di criptare e decriptare frasi intere secondo un tuo alfabeto personale
+scelto all'avvio del programma. il programma ha sostanzialmente 2 punti di riferimento: una variebile stringa 
+con l'alfabeto che tutti conosciamo e una stringa con quello personale dell'utente. Successivamente il programma 
+si baserà su ciò che c'è dentro il file chiamato "scelta.txt" per decidere se andare a criptare o decriptare
+8in caso non abbiate creato il file il programma è impostato su "criptare" di default).
+*/
+
 #include <iostream>
 #include <vector>
 #include <map>
